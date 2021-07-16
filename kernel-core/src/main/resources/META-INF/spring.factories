@@ -1,0 +1,8 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+cn.zyszkj.cloud.kernel.core.config.FastjsonAutoConfiguration,\
+cn.zyszkj.cloud.kernel.core.config.PropertiesAutoConfiguration,\
+cn.zyszkj.cloud.kernel.core.config.RedisAutoConfiguration,\
+cn.zyszkj.cloud.kernel.core.config.WebConfigBeans,\
+cn.zyszkj.cloud.kernel.core.config.DefaultExceptionHandlerAutoConfiguration,\
+cn.zyszkj.cloud.kernel.core.config.RemoveDruidAdConfig,\
+cn.zyszkj.cloud.kernel.core.config.UtilAutoConfiguration

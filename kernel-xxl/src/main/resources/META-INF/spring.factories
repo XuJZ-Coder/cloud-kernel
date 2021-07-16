@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+cn.zyszkj.cloud.kernel.xxl.config.XxlJobConfig
